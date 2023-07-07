@@ -40,7 +40,7 @@
 
 ###
 <div align="center">
-  <img src="![Sk1P's GitHub stats](https://sk1-p-stats.vercel.app/api?username=iSk1P&show_icons=true&theme=radical)" height="150" alt="languages graph"  />
+  <img src="https://sk1-p-stats.vercel.app/api?username=iSk1P&show_icons=true&theme=radical" height="150" alt="languages graph"  />
 </div>
 
 ###
