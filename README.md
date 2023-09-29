@@ -43,6 +43,9 @@
   <img src="https://sk1-p-stats.vercel.app/api?username=iSk1P&show_icons=true&theme=radical" height="150" alt="languages graph"  />
 </div>
 
-[![Discord Presence](https://rpcrm.l7neg.tk/api/816465485306658847?theme=dark&animated=true&idleMessage=currently%20doing%20nothing)](https://discord.com/users/816465485306658847)
+<div align="center">
+ <a href="https://discord.com/users/816465485306658847" target="_blank" rel="nofollow">
+			<img src="https://rpcrm.l7neg.tk/api/816465485306658847?animated=true&idleMessage=currently%20doing%20nothing" alt="Discord Presence" align="center">
+   </div>
 
 ###
