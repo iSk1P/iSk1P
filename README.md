@@ -7,16 +7,16 @@
 <h2 align="center">Tools</h2>
 
 <p align="center">
-<img src="c.svg" width="32" height="32" alt="C++"/>
-<img src="html5.svg" width="32" height="32" alt="HTML"/>
-<img src="css3.svg" width="32" height="32" alt="CSS" />
-<img src="javascript.svg" width="32" height="32" alt="Javascript" />
-<img src="typescript.svg" width="32" height="32" alt="Typescript" />
-<img src="node-js.svg" width="32" height="32" alt="NodeJS" />
-<img src="csharp.svg" width="32" height="32" alt="C#" />
-<img src="java.svg" width="32" height="32" alt="Java" />
-<img src="python.svg" width="32" height="32" alt="Python" />
-<img src="windows.svg" width="32" height="32" alt="Python" />
+<img src="images/c.svg" width="32" height="32" alt="C++"/>
+<img src="images/html5.svg" width="32" height="32" alt="HTML"/>
+<img src="images/css3.svg" width="32" height="32" alt="CSS" />
+<img src="images/javascript.svg" width="32" height="32" alt="Javascript" />
+<img src="images/typescript.svg" width="32" height="32" alt="Typescript" />
+<img src="images/node-js.svg" width="32" height="32" alt="NodeJS" />
+<img src="images/csharp.svg" width="32" height="32" alt="C#" />
+<img src="images/java.svg" width="32" height="32" alt="Java" />
+<img src="images/python.svg" width="32" height="32" alt="Python" />
+<img src="images/windows.svg" width="32" height="32" alt="Python" />
 </p>
 
 
