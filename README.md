@@ -2,8 +2,6 @@
   <img height="100" src="https://sk1p.xyz.wf/Sk1P.png"  />
 </div>
 
-###
-
 <h1 align="center">Hi 👋, I'm Sk1P</h1>
 
 <h2 align="center">Tools</h2>
@@ -27,5 +25,3 @@
 <div align="center">
   <img src="https://elina.hop.sh/v1/users/816465485306658847?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=currently%20doing%20noting"> 
 </div>
-
-###
