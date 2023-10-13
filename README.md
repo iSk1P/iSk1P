@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://sk1p.xyz.wf/src/images/Sk1P.png"  />
+  <img height="100" src="https://sk1p.vercel.app/src/images/Sk1P.png"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sk1P</h1>
