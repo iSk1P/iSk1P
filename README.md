@@ -2,9 +2,9 @@
   <img height="100" src="https://sk1p.vercel.app/src/images/Sk1P.png"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Sk1P</h1>
+<h1 align="center"> <a href="https://ghrmt.vercel.app"><img src="https://ghrmt.vercel.app/?font=Fira+Code&size=28&pause=1000&center=true&color=1EF7BB&random=false&width=435&lines=Hi%20%F0%9F%91%8B,%20I%27m%20Sk1P" alt="ReadMe Typing Vercel Version By L7NEG" /></a></h1>
 
-<h2 align="center">Tools</h2>
+<h2 align="center">Tools I Use</h2>
 
 <p align="center">
 <img src="images/c.svg" width="32" height="32" alt="C++"/>
@@ -20,7 +20,7 @@
 </p>
 
 
-<h2 align="center">Discord Preview</h2>
+<h2 align="center">Discord Preview Card</h2>
 
 <div align="center">
   <img src="https://elinarm.vercel.app/api/816465485306658847?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=currently%20doing%20noting"> 
