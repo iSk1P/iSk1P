@@ -23,5 +23,5 @@
 <h2 align="center">Discord Preview Card</h2>
 
 <div align="center">
-  <img src="https://elinarm.vercel.app/api/816465485306658847?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=currently%20doing%20noting"> 
+  <img src="https://elinarm.vercel.app/api/816465485306658847?theme=dark&amp;bg=#0D1117&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=currently%20doing%20noting"> 
 </div>
